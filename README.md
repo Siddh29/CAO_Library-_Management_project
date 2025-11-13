@@ -1,4 +1,5 @@
 📚 Smart Library Management System
+--------
 Automated Book Sorting + Path Optimization using RFID, Node.js, SQLite & Next.js
 
 This project is a Smart Library Management System that automates the arrangement of books and calculates the minimum path required to sort books efficiently.
