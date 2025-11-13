@@ -82,3 +82,6 @@ Heatmaps for walking paths
 Multi-user authentication
 
 Drag & drop shelf mapping
+----
+To run first download the repository files then do 
+Open http://localhost:3000 with your browser to see the result.
